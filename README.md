@@ -31,10 +31,6 @@ i am currently student and learning many topics related to code and web developm
 <img src="https://raw.githubusercontent.com/nothingissecure/nothingissecure/output/snake.svg" alt="Snake animation" />
 
 ###
-
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=nothingissecure&icon=0&color=0)](https://visitcount.itsvg.in)
 
