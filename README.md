@@ -16,5 +16,5 @@ i am currently student and learning many topics related to code and web developm
 
 <h2>⚡️ Where to find me</h2>
 
-<a target="_blank" href="https://www.instagram.com/its_deepanshu_tiwari" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<a target="_blank" href="https://www.instagram.com/rix7kz" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
