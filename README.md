@@ -4,7 +4,7 @@
 
 ## Hi there 👋 My name is Akash Tiwari.
 # 💫 About Me:
-i am currently student and learning many topics related to code and web development 
+i am currently student and learning many topics related to coding and web development 
 
 <h1 align="center">Hey 👋What's Up</h1>
 
