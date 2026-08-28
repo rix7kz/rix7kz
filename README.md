@@ -1,5 +1,4 @@
 ## Hi there 🙋 My name is Akash Tiwari.
-# 💫 About Me:
 i am currently student and learning many topics related to coding and web development 
 
 ### 🌐 MERN / Web Development
